@@ -1,0 +1,300 @@
+Loan id,name,city,Education,Income,CIBIL SCORE,loan_amount,years_employed,points,Gender,property area,Marital Stuatus,Credit History,Loan Approved,Loan Amount Term,Depends
+LP20011,Allison Hill,Ahemdabad,Not Graduate,113810,389,39698,27,50,Male,Semiurban,Married,1,Pending,12,1
+LP20012,Brandon Hall,Surat,Not Graduate,44592,729,15446,28,55,Female,Urban,Unmarried,0,Pending,12,1
+LP20013,Rhonda Smith,Mumbai,Not Graduate,33278,584,11189,13,45,Female,Rural,Married,1,Not Approved,24,0
+LP20014,Gabrielle Davis,Delhi,Graduate,127196,344,48823,29,50,Male,Rural,Married,1,Not Approved,24,0
+LP20015,Valerie Gray,Pune,Not Graduate,66048,496,47174,4,25,Male,Urban,Married,1,Pending,12,1
+LP20016,Darren Roberts,Kolkata,Graduate,62098,689,19217,29,65,Female,Urban,Married,0,Pending,36,2
+LP20017,Holly Wood,Banglore,Graduate,59256,373,40920,40,35,Male,Rural,Married,1,Approved,12,2
+LP20018,Nicholas Martin,Chennai,Not Graduate,48289,524,45866,20,25,Female,Semiurban,Married,0,Not Approved,24,1
+LP20019,Patty Perez,Hyderabad,Not Graduate,126530,367,14826,36,55,Male,Urban,Unmarried,1,Approved,12,2
+LP20020,Emily Rios,Ahemdabad,Not Graduate,43434,446,18359,8,20,Male,Semiurban,Unmarried,1,Not Approved,24,0
+LP20021,Justin Baker,Surat,Graduate,118696,670,15373,8,75,Male,Rural,Unmarried,1,Approved,36,0
+LP20022,Ann Williams,Mumbai,Not Graduate,127080,365,26216,24,55,Female,Rural,Unmarried,1,Approved,24,0
+LP20023,Julie King,Mumbai,Not Graduate,146939,573,43006,21,50,Female,Urban,Married,1,Approved,24,0
+LP20024,Jeffrey Chavez,Pune,Graduate,101482,819,7973,40,100,Female,Semiurban,Unmarried,1,Approved,36,2
+LP20025,Mark Lynch,Surat,Not Graduate,41395,843,1037,38,80,Female,Rural,Married,0,Pending,24,0
+LP20026,Alec Hickman,Pune,Graduate,107397,380,6613,31,60,Male,Semiurban,Unmarried,1,Approved,24,2
+LP20027,Vanessa Patel,Kolkata,Not Graduate,85302,469,18370,33,50,Male,Semiurban,Unmarried,1,Not Approved,24,2
+LP20028,Jenny Lewis,Kolkata,Graduate,34165,682,29711,33,50,Female,Semiurban,Unmarried,1,Pending,12,1
+LP20029,David Brown,Ahemdabad,Not Graduate,33905,525,1471,4,30,Male,Semiurban,Married,1,Approved,12,0
+LP20030,Amy Jones,Ahemdabad,Not Graduate,42280,543,19250,31,25,Female,Rural,Married,1,Pending,12,2
+LP20031,Carlos Walls,Surat,Graduate,58657,716,13478,6,65,Male,Semiurban,Married,0,Pending,12,0
+LP20032,Jeffrey Henderson,Surat,Not Graduate,60495,400,4972,25,50,Male,Rural,Unmarried,1,Pending,12,0
+LP20033,Rebecca Rodriguez,Ahemdabad,Graduate,96237,443,28648,11,45,Female,Rural,Married,0,Not Approved,24,1
+LP20034,David Leblanc,Ahemdabad,Graduate,108907,400,4315,34,60,Male,Rural,Unmarried,0,Not Approved,36,1
+LP20035,Tracy House,Surat,Not Graduate,33478,792,15008,25,60,Female,Urban,Married,0,Not Approved,12,0
+LP20036,Carmen Smith,Surat,Graduate,103563,592,28722,35,65,Male,Urban,Married,1,Approved,24,0
+LP20037,Katelyn Lee,Pune,Graduate,56062,362,21552,3,30,Female,Semiurban,Unmarried,1,Pending,12,2
+LP20038,John Calhoun,Kolkata,Not Graduate,123850,382,13178,4,45,Male,Rural,Unmarried,1,Not Approved,36,0
+LP20039,Megan Young,Mumbai,Graduate,115181,383,28474,37,55,Female,Urban,Unmarried,1,Pending,36,2
+LP20040,Emily Green,Delhi,Not Graduate,121924,434,45019,19,50,Male,Urban,Unmarried,1,Approved,36,1
+LP20041,Timothy Walls,Delhi,Graduate,101426,402,5801,34,60,Female,Semiurban,Married,1,Pending,12,0
+LP20042,Derek Mahoney,Delhi,Not Graduate,84987,748,36600,19,75,Male,Urban,Unmarried,1,Approved,36,1
+LP20043,Victoria Valdez,Pune,Graduate,58893,406,9800,16,45,Female,Urban,Unmarried,1,Not Approved,24,1
+LP20044,Brian Tran,Chennai,Not Graduate,88878,651,14342,40,65,Female,Urban,Unmarried,0,Pending,24,1
+LP20045,Kathy King,Banglore,Not Graduate,107236,345,1232,21,60,Female,Urban,Married,0,Pending,36,1
+LP20046,Mandy Green,Banglore,Not Graduate,66463,309,8331,4,35,Female,Semiurban,Married,1,Not Approved,36,2
+LP20047,Melissa Hernandez,Hyderabad,Graduate,136093,451,29166,8,50,Male,Semiurban,Married,0,Pending,24,2
+LP20048,Jacob Fitzpatrick,Hyderabad,Graduate,143940,405,24178,35,55,Male,Rural,Married,1,Pending,24,2
+LP20049,Jennifer Oliver,Delhi,Not Graduate,30851,481,28020,1,10,Male,Semiurban,Unmarried,1,Pending,36,0
+LP20050,Tim Patton,Surat,Graduate,129458,573,11433,6,55,Female,Urban,Married,1,Not Approved,36,1
+LP20051,Andrew Ruiz,Ahemdabad,Not Graduate,135620,658,21000,14,70,Male,Rural,Unmarried,0,Not Approved,12,0
+LP20052,Matthew Ross,Ahemdabad,Graduate,50926,659,43040,32,50,Male,Rural,Unmarried,0,Not Approved,36,1
+LP20053,William Herrera,Surat,Graduate,121506,482,39049,16,50,Male,Semiurban,Unmarried,0,Approved,12,0
+LP20054,Kyle Reed,Pune,Not Graduate,85392,418,26244,36,45,Female,Urban,Married,1,Pending,24,2
+LP20055,Andrew Graham,Chennai,Not Graduate,74597,638,41839,20,50,Male,Urban,Unmarried,1,Approved,12,0
+LP20056,Belinda Mccullough,Hyderabad,Graduate,66421,712,46692,18,60,Male,Rural,Unmarried,1,Not Approved,36,2
+LP20057,Cheryl Ortega,Surat,Graduate,50379,608,27612,35,50,Male,Semiurban,Married,1,Pending,24,1
+LP20058,Elizabeth Clark,Pune,Graduate,58221,518,34500,30,35,Male,Semiurban,Unmarried,1,Pending,12,0
+LP20059,Toni Fitzgerald,Delhi,Graduate,130072,395,16392,19,55,Male,Rural,Unmarried,0,Approved,36,0
+LP20060,Curtis Johnson,Mumbai,Graduate,74118,374,30846,26,35,Male,Urban,Married,1,Pending,36,1
+LP20061,Laura Higgins,Mumbai,Not Graduate,43396,451,43995,0,10,Female,Rural,Married,1,Not Approved,36,1
+LP20062,Shannon Mcclure,Mumbai,Graduate,42156,775,4291,35,70,Female,Urban,Married,1,Pending,12,1
+LP20063,Ryan Bryant,Surat,Not Graduate,79797,624,30004,39,60,Female,Semiurban,Married,0,Approved,24,2
+LP20064,Stephanie Simmons,Mumbai,Graduate,42676,760,17986,15,60,Female,Semiurban,Married,1,Not Approved,12,2
+LP20065,Destiny Strickland,Pune,Graduate,77052,750,6077,18,90,Female,Urban,Unmarried,1,Approved,12,0
+LP20066,George Orozco,Kolkata,Not Graduate,141082,456,47295,13,50,Female,Urban,Married,0,Not Approved,36,2
+LP20067,Jason Daniels,Ahemdabad,Not Graduate,75082,698,39278,1,50,Male,Rural,Unmarried,1,Not Approved,24,2
+LP20068,Pamela James,Pune,Not Graduate,109131,729,36272,34,75,Male,Rural,Unmarried,1,Pending,24,2
+LP20069,Stephanie Freeman,Chennai,Not Graduate,64671,698,23028,25,65,Female,Semiurban,Unmarried,0,Pending,24,1
+LP20070,Sara Calhoun,Hyderabad,Not Graduate,135791,385,43123,27,50,Male,Semiurban,Married,0,Not Approved,24,2
+LP20071,Joel Williams,Pune,Graduate,35695,634,23118,24,40,Female,Rural,Married,1,Pending,12,0
+LP20072,Trevor Fisher,Kolkata,Not Graduate,125647,353,23935,14,55,Male,Urban,Unmarried,1,Pending,12,2
+LP20073,Rachael Pearson,Hyderabad,Not Graduate,90217,456,16633,8,45,Female,Urban,Unmarried,1,Pending,24,0
+LP20074,Brian Gould,Pune,Not Graduate,100284,471,40707,38,45,Male,Semiurban,Married,0,Not Approved,24,2
+LP20075,Michelle Strickland,Kolkata,Graduate,46361,326,21444,36,25,Female,Semiurban,Married,1,Pending,24,2
+LP20076,Tina Sanders,Surat,Not Graduate,79615,548,7678,19,55,Male,Rural,Unmarried,1,Pending,36,0
+LP20077,Lindsay Martinez,Chennai,Graduate,40328,370,34158,21,25,Female,Urban,Unmarried,1,Pending,24,1
+LP20078,Jason Henry,Mumbai,Not Graduate,102357,456,29540,11,50,Male,Rural,Unmarried,1,Not Approved,36,0
+LP20079,Tracie Nelson,Ahemdabad,Graduate,68427,574,22122,15,40,Female,Semiurban,Married,1,Approved,36,1
+LP20080,Angelica Keith,Ahemdabad,Graduate,138711,688,23046,1,65,Male,Rural,Unmarried,1,Pending,36,2
+LP20081,Frederick Freeman MD,Ahemdabad,Not Graduate,112397,310,34857,12,50,Female,Urban,Unmarried,1,Approved,36,0
+LP20082,Nathan Freeman,Surat,Graduate,111070,802,30371,1,75,Male,Rural,Married,0,Approved,36,0
+LP20083,Daniel Holt,Pune,Not Graduate,146057,784,37272,33,85,Female,Rural,Married,1,Not Approved,36,2
+LP20084,Zachary Pierce,Mumbai,Not Graduate,142945,613,17475,14,70,Male,Rural,Unmarried,1,Approved,12,1
+LP20085,Corey Wilson,Mumbai,Graduate,77400,795,19120,37,85,Female,Semiurban,Unmarried,1,Pending,24,1
+LP20086,Kelly Campbell,Mumbai,Not Graduate,105674,669,12759,19,70,Male,Urban,Married,1,Approved,24,2
+LP20087,Joseph Hill,Delhi,Not Graduate,55203,802,7723,0,70,Male,Semiurban,Married,1,Approved,36,2
+LP20088,Julie Alexander,Delhi,Graduate,122349,789,8476,4,85,Male,Semiurban,Married,1,Approved,12,1
+LP20089,Benjamin Soto,Delhi,Graduate,39116,611,6582,15,50,Male,Semiurban,Married,1,Not Approved,12,2
+LP20090,Phillip Obrien,Kolkata,Not Graduate,36006,761,30014,19,60,Male,Semiurban,Married,0,Not Approved,12,1
+LP20091,Wanda Torres,Surat,Graduate,116673,512,41993,13,50,Male,Urban,Unmarried,1,Pending,24,2
+LP20092,Brad Allen,Delhi,Not Graduate,59871,781,20087,2,65,Male,Semiurban,Married,1,Not Approved,24,0
+LP20093,Michael Warner,Kolkata,Not Graduate,131327,570,41963,37,50,Male,Semiurban,Married,1,Approved,24,2
+LP20094,Taylor Coleman,Delhi,Graduate,67930,572,10321,4,35,Male,Urban,Unmarried,0,Pending,24,2
+LP20095,Ricky Larson,Kolkata,Not Graduate,40458,611,46857,25,40,Male,Semiurban,Unmarried,1,Pending,36,1
+LP20096,Kathryn Snyder,Pune,Graduate,142108,630,40564,16,65,Male,Semiurban,Unmarried,0,Pending,12,1
+LP20097,Darryl Craig,Mumbai,Not Graduate,60512,341,12481,30,45,Male,Semiurban,Married,0,Approved,24,2
+LP20098,Jessica Ramirez,Surat,Graduate,143571,393,31802,22,55,Male,Urban,Married,1,Approved,24,1
+LP20099,Frank Garcia,Mumbai,Graduate,43238,807,19888,25,65,Male,Urban,Unmarried,0,Approved,24,0
+LP20100,Krista Gibson,Delhi,Graduate,79823,713,34724,0,50,Male,Rural,Married,1,Pending,36,1
+LP20101,Kimberly Gutierrez,Ahemdabad,Graduate,66434,810,41986,28,75,Male,Rural,Unmarried,0,Pending,24,0
+LP20102,Christina Dunn,Pune,Not Graduate,89429,424,2891,40,55,Male,Urban,Unmarried,1,Not Approved,24,1
+LP20103,Cynthia Moore,Chennai,Graduate,113320,416,31241,7,45,Female,Semiurban,Unmarried,1,Approved,12,0
+LP20104,Brittany Cantu,Hyderabad,Not Graduate,139328,725,32621,30,80,Female,Rural,Unmarried,1,Approved,36,0
+LP20105,Juan Reyes,Delhi,Graduate,77819,724,23274,32,70,Female,Semiurban,Unmarried,1,Pending,12,1
+LP20106,Aaron Barber,Chennai,Graduate,51319,795,23618,21,70,Female,Rural,Married,1,Not Approved,36,1
+LP20107,Kimberly Gibson,Kolkata,Not Graduate,78520,692,16306,26,75,Female,Semiurban,Married,1,Not Approved,24,0
+LP20108,Patrick Thornton,Pune,Graduate,76566,807,3426,8,90,Female,Urban,Married,1,Not Approved,24,0
+LP20109,Leslie Kane,Hyderabad,Graduate,57460,315,48346,9,30,Female,Semiurban,Married,1,Approved,12,1
+LP20110,Matthew Moore,Delhi,Graduate,117841,646,41845,25,65,Female,Semiurban,Married,1,Pending,24,0
+LP20111,Sarah Phelps,Ahemdabad,Graduate,64993,336,41465,4,25,Female,Urban,Unmarried,1,Approved,24,0
+LP20112,Michael Mitchell,Surat,Not Graduate,121988,400,42533,6,45,Female,Urban,Married,1,Not Approved,36,1
+LP20113,Michael Berger,Surat,Graduate,119593,667,25565,27,70,Female,Rural,Unmarried,1,Pending,36,0
+LP20114,Joseph Knight,Mumbai,Not Graduate,114939,691,41613,15,75,Female,Semiurban,Unmarried,1,Approved,12,2
+LP20115,Mr. David Little MD,Mumbai,Not Graduate,39358,461,5840,28,35,Female,Urban,Unmarried,1,Approved,12,0
+LP20116,Victoria Evans,Delhi,Not Graduate,109840,609,14055,24,70,Female,Urban,Married,1,Not Approved,24,2
+LP20117,Ashley James,Mumbai,Graduate,113227,322,44137,25,50,Female,Rural,Married,0,Pending,36,2
+LP20118,Keith Jennings,Ahemdabad,Not Graduate,52431,535,40784,22,35,Female,Rural,Married,0,Pending,24,0
+LP20119,Connor King,Surat,Not Graduate,100010,340,21246,28,55,Female,Rural,Unmarried,1,Not Approved,12,0
+LP20120,Jacob Anderson,Pune,Graduate,125568,479,14159,8,50,Male,Urban,Married,0,Not Approved,36,0
+LP20121,Sherri Diaz,Chennai,Graduate,62087,793,20342,21,75,Male,Semiurban,Unmarried,1,Pending,24,2
+LP20122,Julie Jones,Hyderabad,Not Graduate,51417,706,37524,23,60,Female,Rural,Married,1,Approved,36,2
+LP20123,James Baker,Hyderabad,Graduate,90589,690,42847,23,65,Female,Semiurban,Married,0,Approved,24,0
+LP20124,David Johnson,Delhi,Graduate,79735,364,42641,29,40,Male,Semiurban,Unmarried,0,Approved,12,1
+LP20125,Elizabeth Ortiz,Ahemdabad,Graduate,65382,611,33284,7,45,Male,Urban,Married,1,Pending,24,2
+LP20126,Stephen Taylor,Pune,Graduate,113886,729,39491,9,70,Female,Rural,Married,1,Not Approved,24,0
+LP20127,Mary Bass,Hyderabad,Not Graduate,120198,333,46238,23,50,Female,Semiurban,Married,1,Pending,24,2
+LP20128,Jeremy Young,Mumbai,Not Graduate,103000,667,4968,25,75,Male,Urban,Unmarried,0,Approved,12,1
+LP20129,Walter Rush,Mumbai,Graduate,58785,321,4314,21,50,Male,Rural,Married,1,Not Approved,36,2
+LP20130,Cameron Cunningham,Pune,Graduate,119733,521,16269,21,55,Male,Urban,Married,1,Not Approved,12,2
+LP20131,Rachel Carlson,Ahemdabad,Graduate,72504,433,36403,16,35,Male,Rural,Unmarried,0,Not Approved,24,2
+LP20132,Ashley Delacruz,Ahemdabad,Graduate,140474,543,39591,20,50,Female,Rural,Married,1,Pending,12,1
+LP20133,Derek Martinez,Surat,Not Graduate,130704,787,30378,23,90,Female,Urban,Unmarried,1,Not Approved,24,0
+LP20134,Ashley Gordon,Pune,Graduate,131711,608,31018,1,55,Female,Urban,Unmarried,1,Not Approved,36,0
+LP20135,John Morales,Surat,Graduate,37331,375,6294,20,35,Male,Urban,Married,0,Approved,36,0
+LP20136,Ana Hill,Kolkata,Graduate,60021,601,30734,32,50,Male,Urban,Married,0,Pending,24,0
+LP20137,Annette Miles,Ahemdabad,Graduate,137715,533,28119,21,55,Male,Rural,Unmarried,1,Approved,12,0
+LP20138,Jennifer Blair,Ahemdabad,Not Graduate,34207,683,11003,30,55,Male,Rural,Unmarried,1,Not Approved,36,0
+LP20139,Ronald Davis,Pune,Not Graduate,135518,361,39434,35,50,Male,Semiurban,Married,1,Approved,12,2
+LP20140,Meagan Jenkins,Surat,Not Graduate,71347,594,40348,19,50,Male,Rural,Unmarried,0,Pending,36,0
+LP20141,Kenneth Lewis,Mumbai,Not Graduate,82581,658,37455,23,55,Female,Urban,Unmarried,1,Pending,12,0
+LP20142,Donald Perez,Kolkata,Graduate,65093,326,40911,17,35,Female,Urban,Married,1,Approved,36,2
+LP20143,Donald Farmer,Pune,Graduate,38675,446,38114,25,25,Female,Urban,Unmarried,0,Pending,24,0
+LP20144,Patrick Bonilla,Delhi,Not Graduate,57653,729,30730,21,60,Female,Urban,Married,1,Approved,24,2
+LP20145,Eric Nguyen,Delhi,Graduate,149686,383,18832,28,55,Female,Rural,Unmarried,1,Approved,36,2
+LP20146,Karla Ramos,Delhi,Not Graduate,104341,416,23621,27,55,Female,Rural,Unmarried,1,Approved,36,0
+LP20147,Michael Watkins,Mumbai,Graduate,144867,356,1503,13,60,Male,Rural,Married,0,Pending,24,2
+LP20148,Daniel Taylor,Mumbai,Graduate,124098,307,33596,27,50,Male,Urban,Married,0,Not Approved,24,2
+LP20149,James Padilla,Pune,Graduate,71245,746,2228,29,85,Male,Rural,Unmarried,1,Pending,12,1
+LP20150,Shannon Johnston,Ahemdabad,Not Graduate,57869,596,8548,25,60,Male,Urban,Married,0,Not Approved,36,2
+LP20151,Frederick Solis,Surat,Graduate,115909,390,29620,6,45,Male,Semiurban,Married,1,Pending,24,2
+LP20152,Kevin Warren,Chennai,Graduate,95435,526,22827,10,50,Male,Rural,Married,0,Not Approved,36,0
+LP20153,Mark Schmidt,Hyderabad,Graduate,81856,451,16484,6,45,Male,Semiurban,Unmarried,1,Pending,36,1
+LP20154,Craig Morrison,Chennai,Graduate,145957,775,37944,37,85,Male,Rural,Married,1,Not Approved,24,0
+LP20155,Thomas Cunningham,Hyderabad,Not Graduate,149871,454,29820,4,45,Male,Semiurban,Married,1,Not Approved,24,2
+LP20156,Mark Hogan,Pune,Not Graduate,114259,772,30616,2,75,Male,Urban,Married,0,Approved,12,0
+LP20157,Ronald Jones,Kolkata,Not Graduate,90142,773,39032,35,75,Male,Rural,Married,1,Approved,24,2
+LP20158,Nancy Williams,Mumbai,Not Graduate,48726,813,10886,3,65,Male,Urban,Married,0,Approved,36,2
+LP20159,Robert Monroe,Ahemdabad,Not Graduate,64718,553,47374,28,35,Female,Urban,Unmarried,1,Pending,12,2
+LP20160,Kelly Bishop MD,Surat,Graduate,48301,353,42345,21,25,Female,Semiurban,Married,0,Not Approved,36,2
+LP20161,Brandon Gregory,Chennai,Graduate,62325,641,6341,37,60,Female,Urban,Married,0,Not Approved,36,2
+LP20162,Sydney Collins,Pune,Graduate,127647,617,37629,24,65,Female,Urban,Unmarried,1,Pending,12,0
+LP20163,Erin Anderson,Kolkata,Not Graduate,103579,670,2194,23,85,Female,Semiurban,Married,1,Not Approved,12,0
+LP20164,Trevor Peterson,Ahemdabad,Graduate,100644,458,6057,18,60,Female,Urban,Married,1,Not Approved,12,0
+LP20165,Ashley Wise,Ahemdabad,Graduate,64438,685,11109,10,70,Female,Urban,Married,1,Approved,12,2
+LP20166,Michael Weber,Surat,Graduate,127912,720,24874,15,80,Female,Urban,Married,0,Approved,12,0
+LP20167,Lisa Goodwin,Delhi,Not Graduate,106622,616,31737,12,65,Female,Urban,Unmarried,1,Not Approved,12,1
+LP20168,Travis Joyce,Delhi,Not Graduate,86155,814,35567,26,80,Female,Urban,Married,1,Pending,24,0
+LP20169,Ruth Solis,Mumbai,Graduate,147679,792,25327,35,90,Male,Urban,Unmarried,1,Approved,12,0
+LP20170,Michelle Black,Mumbai,Not Graduate,106484,579,30446,32,50,Female,Urban,Unmarried,1,Approved,36,0
+LP20171,Jeffrey Potts,Chennai,Not Graduate,82350,657,2747,26,70,Female,Urban,Unmarried,0,Pending,24,0
+LP20172,Jonathan Young,Hyderabad,Graduate,77447,401,47838,21,40,Male,Rural,Married,0,Pending,36,1
+LP20173,Brenda Mitchell,Pune,Graduate,58746,780,30399,39,70,Female,Rural,Married,0,Not Approved,24,0
+LP20174,Bobby Scott,Hyderabad,Not Graduate,48131,840,28738,7,60,Male,Urban,Married,1,Approved,12,1
+LP20175,Cynthia Martinez,Hyderabad,Graduate,96784,768,5116,7,85,Female,Semiurban,Unmarried,1,Not Approved,24,1
+LP20176,Kathryn Herrera,Hyderabad,Not Graduate,94686,739,1102,39,80,Male,Semiurban,Married,1,Not Approved,36,1
+LP20177,Kenneth Lopez,Pune,Not Graduate,41915,838,36656,32,65,Female,Semiurban,Married,1,Not Approved,24,2
+LP20178,Katie Smith,Pune,Graduate,129061,682,17623,1,65,Male,Rural,Unmarried,1,Not Approved,36,1
+LP20179,Austin Allen,Pune,Not Graduate,36175,436,3905,22,35,Female,Rural,Unmarried,0,Pending,12,2
+LP20180,Robin Thompson,Chennai,Graduate,142866,486,9837,4,50,Male,Rural,Unmarried,1,Pending,12,2
+LP20181,Terri Johnson,Chennai,Not Graduate,44371,342,21682,19,25,Female,Urban,Married,0,Not Approved,36,0
+LP20182,Virginia Daniels,Ahemdabad,Graduate,50033,592,24394,3,40,Male,Semiurban,Married,1,Pending,36,0
+LP20183,Evelyn Martinez,Ahemdabad,Not Graduate,112240,750,26339,21,90,Female,Semiurban,Married,0,Pending,24,0
+LP20184,Kathleen Jimenez,Surat,Not Graduate,50969,380,29220,38,35,Male,Rural,Unmarried,1,Pending,36,2
+LP20185,Catherine Carter MD,Surat,Graduate,133819,756,40493,27,85,Female,Urban,Married,1,Not Approved,36,1
+LP20186,Jeremy West,Chennai,Not Graduate,119192,581,42908,3,55,Male,Urban,Unmarried,1,Pending,12,2
+LP20187,Mark Cox,Hyderabad,Graduate,85333,748,3280,8,85,Female,Rural,Married,0,Pending,36,0
+LP20188,Richard Diaz,Hyderabad,Not Graduate,108172,457,45503,28,45,Male,Urban,Married,0,Not Approved,36,0
+LP20189,Jacqueline Hines,Surat,Graduate,38326,621,43569,17,40,Female,Rural,Unmarried,1,Pending,36,0
+LP20190,Brian Fitzgerald,Mumbai,Not Graduate,80432,420,18155,16,50,Male,Semiurban,Unmarried,1,Pending,12,2
+LP20191,Cindy Carr,Surat,Graduate,80019,375,30625,11,45,Male,Semiurban,Unmarried,1,Pending,36,1
+LP20192,Jill Miller,Delhi,Graduate,108104,597,20657,10,70,Female,Urban,Unmarried,1,Approved,36,0
+LP20193,Tammy Little,Chennai,Graduate,91348,505,10101,15,50,Male,Rural,Unmarried,1,Approved,24,0
+LP20194,Allison Spencer,Hyderabad,Graduate,99352,432,41104,5,35,Female,Urban,Married,1,Approved,24,0
+LP20195,James Love,Pune,Graduate,62953,375,9213,20,45,Male,Urban,Unmarried,1,Pending,12,1
+LP20196,Joanna Frazier,Pune,Graduate,102512,486,9456,27,60,Female,Rural,Married,0,Not Approved,12,2
+LP20197,Sheena Guerra,Kolkata,Graduate,142824,630,47486,14,65,Male,Rural,Unmarried,0,Pending,36,0
+LP20198,Todd Jacobson,Kolkata,Not Graduate,31504,581,9203,40,45,Female,Semiurban,Unmarried,1,Approved,12,0
+LP20199,Joseph Shaw,Pune,Not Graduate,119166,457,12219,39,55,Male,Rural,Unmarried,0,Pending,12,1
+LP20200,Lisa Kirby,Mumbai,Graduate,124466,346,43038,36,50,Male,Rural,Married,1,Not Approved,24,0
+LP20201,Daniel Armstrong,Surat,Not Graduate,45014,596,43068,19,40,Male,Rural,Married,0,Not Approved,12,0
+LP20202,Dr. Michael Evans,Hyderabad,Not Graduate,119353,725,32735,29,75,Female,Rural,Married,1,Approved,36,0
+LP20203,Lawrence Edwards,Pune,Graduate,145970,708,9569,23,85,Male,Urban,Married,1,Approved,24,1
+LP20204,Ashley Allen,Mumbai,Graduate,100381,399,4316,18,60,Female,Rural,Married,1,Pending,12,2
+LP20205,Sharon Barnes,Kolkata,Not Graduate,128419,620,13440,10,70,Male,Rural,Unmarried,1,Not Approved,12,2
+LP20206,Mr. Jonathan Parker Jr.,Kolkata,Graduate,64973,520,39230,22,35,Male,Rural,Married,1,Pending,12,0
+LP20207,Douglas Harper,Pune,Not Graduate,130741,410,29241,8,50,Female,Semiurban,Unmarried,0,Approved,12,1
+LP20208,Monica Gallagher,Pune,Graduate,114012,499,24758,35,55,Female,Urban,Unmarried,0,Approved,36,1
+LP20209,James Cole,Mumbai,Graduate,74587,431,7336,25,50,Female,Semiurban,Unmarried,1,Not Approved,24,2
+LP20210,William Grant,Ahemdabad,Not Graduate,44621,821,27305,32,65,Male,Urban,Married,1,Pending,36,1
+LP20211,Andrew Reeves,Pune,Graduate,68469,827,10160,20,85,Male,Rural,Married,0,Not Approved,12,0
+LP20212,Emily Long,Surat,Graduate,86985,821,35887,31,80,Male,Semiurban,Unmarried,0,Approved,24,2
+LP20213,Elizabeth Cabrera,Delhi,Graduate,50730,726,39253,19,60,Male,Urban,Married,1,Approved,12,2
+LP20214,Molly Watts,Hyderabad,Not Graduate,89470,533,48277,3,30,Male,Rural,Unmarried,1,Pending,12,0
+LP20215,Carolyn Fuller,Chennai,Not Graduate,30425,332,38523,7,20,Male,Rural,Married,1,Approved,12,1
+LP20216,Jeremy Barnes,Kolkata,Not Graduate,124646,813,41073,30,90,Female,Semiurban,Unmarried,1,Approved,24,2
+LP20217,Nancy Brown,Pune,Not Graduate,144799,632,44399,30,65,Female,Rural,Married,1,Not Approved,12,2
+LP20218,Emily Thompson,Pune,Graduate,124329,795,13600,15,90,Female,Urban,Unmarried,0,Approved,12,0
+LP20219,Edwin David,Kolkata,Not Graduate,64522,800,21777,30,80,Male,Semiurban,Unmarried,1,Approved,12,0
+LP20220,Timothy Pope,Mumbai,Not Graduate,95612,688,26856,22,70,Male,Rural,Unmarried,0,Approved,36,1
+LP20221,Regina Roberts,Mumbai,Not Graduate,129871,654,29991,16,70,Male,Semiurban,Married,1,Pending,24,1
+LP20222,Cindy Clayton,Mumbai,Graduate,53416,440,8158,39,45,Male,Rural,Unmarried,1,Pending,36,0
+LP20223,Cynthia Williams,Mumbai,Graduate,96542,402,28086,21,45,Female,Urban,Unmarried,0,Pending,12,2
+LP20224,Ashlee Townsend,Mumbai,Graduate,149619,716,43787,30,75,Female,Rural,Unmarried,1,Pending,12,0
+LP20225,Curtis Maynard,Mumbai,Not Graduate,43947,391,43749,36,25,Female,Urban,Married,0,Pending,12,0
+LP20226,Parker Jefferson,Mumbai,Not Graduate,144100,337,27017,31,55,Female,Rural,Married,1,Approved,24,1
+LP20227,Paul Brennan,Mumbai,Graduate,111959,605,38221,38,65,Female,Urban,Married,1,Not Approved,12,0
+LP20228,William Mitchell,Mumbai,Not Graduate,69117,816,31672,17,75,Male,Rural,Unmarried,1,Approved,36,1
+LP20229,Brian Martin,Mumbai,Not Graduate,140319,314,49274,21,50,Male,Semiurban,Unmarried,1,Pending,12,1
+LP20230,Laura Todd,Mumbai,Graduate,113748,715,29029,32,75,Male,Rural,Unmarried,0,Pending,24,2
+LP20231,James Davis,Mumbai,Not Graduate,96540,554,1447,16,55,Male,Rural,Unmarried,0,Pending,36,2
+LP20232,Jeremy Adams,Surat,Graduate,109818,311,18141,23,55,Male,Rural,Unmarried,1,Not Approved,24,2
+LP20233,Amy Wilson,Ahemdabad,Graduate,56071,618,46238,7,45,Male,Urban,Married,1,Not Approved,36,1
+LP20234,Teresa Richardson,Surat,Graduate,50032,789,11039,29,80,Male,Semiurban,Married,1,Pending,24,0
+LP20235,Lisa Perry,Delhi,Not Graduate,79009,553,45586,38,40,Female,Semiurban,Married,1,Approved,24,1
+LP20236,Angela Griffin,Chennai,Not Graduate,129943,414,5047,35,60,Male,Semiurban,Married,0,Not Approved,24,2
+LP20237,Christina Herrera,Delhi,Graduate,51174,752,8617,13,80,Female,Semiurban,Married,1,Pending,12,1
+LP20238,Katherine Nolan,Delhi,Not Graduate,100697,435,34636,26,50,Female,Urban,Married,1,Pending,12,1
+LP20239,Anthony Ford,Delhi,Graduate,132056,560,1197,13,60,Female,Urban,Married,1,Approved,36,2
+LP20240,Amber Cooper,Delhi,Graduate,99514,783,3079,18,90,Female,Semiurban,Married,1,Not Approved,12,0
+LP20241,Randy Cannon,Chennai,Graduate,30074,759,25739,24,60,Female,Rural,Unmarried,1,Not Approved,36,2
+LP20242,Victor Baxter,Hyderabad,Not Graduate,108504,421,12696,34,55,Female,Rural,Unmarried,1,Not Approved,24,1
+LP20243,Cameron Irwin,Hyderabad,Graduate,72487,774,45138,34,70,Female,Semiurban,Married,1,Approved,24,2
+LP20244,James Hall,Hyderabad,Not Graduate,94042,493,48515,7,35,Female,Semiurban,Married,1,Approved,24,1
+LP20245,Matthew Mendez,Surat,Not Graduate,32552,334,30257,38,25,Female,Urban,Unmarried,1,Not Approved,36,1
+LP20246,Shelby Sanchez,Surat,Graduate,44662,522,4699,8,30,Female,Urban,Married,0,Not Approved,24,1
+LP20247,Donna Cabrera,Surat,Not Graduate,77576,542,20776,9,40,Female,Semiurban,Married,1,Pending,36,2
+LP20248,Ms. Jennifer Hill,Surat,Not Graduate,145175,807,4072,22,100,Female,Urban,Unmarried,1,Approved,12,0
+LP20249,Megan Floyd,Ahemdabad,Not Graduate,139008,452,20653,24,55,Male,Urban,Unmarried,1,Not Approved,36,1
+LP20250,Joshua Allen,Ahemdabad,Not Graduate,135745,447,31344,3,45,Male,Rural,Married,1,Not Approved,36,1
+LP20251,Tracy Grant,Ahemdabad,Graduate,70306,508,22644,5,35,Female,Semiurban,Married,0,Approved,24,1
+LP20252,Sarah Davis,Ahemdabad,Graduate,61385,340,5769,12,50,Female,Urban,Married,1,Pending,24,2
+LP20253,Laurie Powers,Pune,Graduate,37592,640,20869,0,25,Female,Urban,Unmarried,1,Approved,36,0
+LP20254,Colton Figueroa,Pune,Not Graduate,61571,706,16684,35,65,Female,Urban,Unmarried,1,Approved,12,2
+LP20255,Douglas Owens,Pune,Graduate,145082,825,33589,29,95,Female,Urban,Unmarried,0,Pending,36,0
+LP20256,William Harrison,Pune,Not Graduate,104364,620,28127,2,55,Male,Rural,Unmarried,1,Not Approved,12,2
+LP20257,Connie Thomas,Pune,Not Graduate,40322,727,20345,9,45,Male,Semiurban,Unmarried,1,Not Approved,12,2
+LP20258,David Hudson,Kolkata,Graduate,41226,645,17864,31,40,Male,Semiurban,Married,1,Pending,24,1
+LP20259,Maria Henry,Kolkata,Not Graduate,125932,473,10172,34,60,Male,Semiurban,Unmarried,1,Approved,24,2
+LP20260,Thomas Weaver DDS,Hyderabad,Graduate,93699,349,1418,26,55,Male,Rural,Married,0,Approved,24,0
+LP20261,Mark Jones,Kolkata,Not Graduate,136957,766,25458,3,80,Male,Urban,Married,1,Pending,36,0
+LP20262,Mary Jensen,Hyderabad,Not Graduate,39071,306,35879,35,25,Male,Semiurban,Unmarried,1,Pending,12,2
+LP20263,Alan Bowen,Kolkata,Graduate,129693,483,8013,6,55,Male,Semiurban,Married,1,Not Approved,36,0
+LP20264,Daisy Harvey,Mumbai,Graduate,99822,706,6178,23,80,Female,Semiurban,Unmarried,1,Pending,24,1
+LP20265,Judy Sanchez,Kolkata,Not Graduate,130379,382,43843,2,40,Female,Semiurban,Unmarried,0,Approved,24,0
+LP20266,James Tran,Surat,Not Graduate,46483,384,33758,27,25,Female,Rural,Unmarried,1,Approved,24,0
+LP20267,Erin Madden,Ahemdabad,Graduate,46828,516,46369,36,25,Female,Urban,Married,1,Not Approved,24,2
+LP20268,Anthony Jones,Surat,Graduate,116474,333,12754,20,55,Female,Rural,Unmarried,1,Pending,12,1
+LP20269,Daniel Thomas,Ahemdabad,Not Graduate,92296,466,37959,15,40,Female,Semiurban,Married,1,Approved,24,2
+LP20270,Sarah Rhodes,Surat,Not Graduate,102063,380,33819,22,50,Female,Rural,Unmarried,1,Pending,36,2
+LP20271,Jeffrey Roberson,Mumbai,Not Graduate,51643,634,2941,40,65,Male,Urban,Unmarried,1,Pending,24,2
+LP20272,Willie Henry,Delhi,Not Graduate,64741,742,13172,37,80,Male,Rural,Unmarried,1,Pending,24,2
+LP20273,Angelica Montgomery,Delhi,Not Graduate,99163,574,11107,24,50,Male,Urban,Unmarried,1,Approved,36,2
+LP20274,Madison Singh,Delhi,Graduate,144351,305,21202,28,55,Male,Rural,Married,0,Approved,36,2
+LP20275,Derrick Anderson,Pune,Not Graduate,109507,824,27741,6,85,Male,Semiurban,Unmarried,1,Not Approved,12,1
+LP20276,Hector Davis,Pune,Graduate,85461,598,28119,24,60,Female,Semiurban,Unmarried,0,Approved,36,1
+LP20277,Misty Hansen,Pune,Graduate,57760,689,12108,8,65,Male,Semiurban,Married,0,Pending,24,1
+LP20278,Derrick Thomas,Pune,Graduate,100686,606,32734,4,55,Female,Semiurban,Married,1,Not Approved,12,2
+LP20279,Tony Le,Kolkata,Graduate,128994,768,8010,8,90,Male,Rural,Unmarried,1,Approved,24,1
+LP20280,Travis Cook,Pune,Graduate,125673,750,22937,27,90,Male,Urban,Unmarried,0,Not Approved,36,1
+LP20281,Shannon Mccann,Kolkata,Not Graduate,120422,505,32392,20,50,Male,Urban,Married,1,Not Approved,12,1
+LP20282,James Flores,Pune,Graduate,56365,633,25645,17,50,Male,Semiurban,Married,1,Not Approved,24,1
+LP20283,Jenna Wilson,Surat,Not Graduate,123447,484,45676,35,50,Female,Urban,Unmarried,1,Not Approved,12,1
+LP20284,Nicholas Hahn,Mumbai,Graduate,70857,370,27813,31,40,Female,Rural,Married,0,Not Approved,36,2
+LP20285,Eric King,Mumbai,Not Graduate,82296,686,5847,28,80,Female,Rural,Unmarried,0,Not Approved,12,2
+LP20286,Karen Morales DDS,Delhi,Not Graduate,118039,849,39916,40,90,Male,Rural,Unmarried,1,Not Approved,12,1
+LP20287,Ashley Wright,Ahemdabad,Not Graduate,115180,709,22731,27,80,Male,Rural,Unmarried,0,Pending,24,2
+LP20288,Brett Walker,Ahemdabad,Not Graduate,78944,774,45535,37,75,Male,Rural,Unmarried,1,Not Approved,24,0
+LP20289,Brittany Cuevas,Ahemdabad,Graduate,87422,387,8606,9,50,Male,Urban,Unmarried,1,Pending,12,0
+LP20290,Grant Mueller,Surat,Graduate,147914,748,48316,28,85,Female,Semiurban,Married,1,Not Approved,36,1
+LP20291,Eric Patrick,Surat,Graduate,97839,468,49528,15,40,Female,Rural,Married,0,Pending,12,0
+LP20292,Kristen Rivera,Mumbai,Not Graduate,89177,714,42271,11,65,Female,Rural,Married,1,Approved,12,1
+LP20293,Matthew Foster,Mumbai,Graduate,45860,698,1291,13,65,Female,Semiurban,Married,0,Approved,12,2
+LP20294,Paul Stokes,Mumbai,Graduate,62493,491,24972,20,40,Male,Urban,Unmarried,0,Not Approved,36,0
+LP20295,Brian Lambert,Mumbai,Graduate,59451,697,41062,25,60,Male,Urban,Married,0,Not Approved,12,2
+LP20296,Hannah Bruce,Delhi,Graduate,38392,604,41270,37,40,Male,Semiurban,Unmarried,0,Approved,12,0
+LP20297,Cesar Wilson,Delhi,Not Graduate,74313,444,34477,24,35,Male,Semiurban,Married,0,Not Approved,36,0
+LP20298,Chad Reyes,Delhi,Not Graduate,32757,477,37366,10,25,Female,Urban,Married,1,Pending,12,1
+LP20299,Charles Edwards MD,Delhi,Graduate,107110,796,9947,12,95,Female,Semiurban,Unmarried,1,Approved,36,2
+LP20300,Tracey Wagner,Delhi,Graduate,102603,725,47539,28,70,Female,Urban,Unmarried,1,Approved,36,1
+LP20301,Bradley Johnson DDS,Delhi,Not Graduate,60161,850,19918,10,80,Female,Urban,Unmarried,0,Approved,12,1
+LP20302,Krystal Barton,Delhi,Not Graduate,107128,416,18556,34,55,Male,Urban,Married,1,Approved,12,2
+LP20303,Holly Carson,Delhi,Not Graduate,58864,523,28862,6,30,Male,Semiurban,Married,0,Pending,24,1
+LP20304,Martha Wright,Pune,Not Graduate,30942,749,8693,15,65,Male,Urban,Married,1,Pending,24,1
+LP20305,Oscar Norris,Pune,Not Graduate,39305,511,14562,3,20,Female,Semiurban,Unmarried,1,Not Approved,24,0
+LP20306,Kim Carlson,Kolkata,Graduate,122778,599,19961,36,70,Female,Semiurban,Unmarried,1,Not Approved,12,0
+LP20307,Scott Duke,Pune,Graduate,112719,360,19174,8,50,Female,Rural,Married,0,Pending,12,2
+LP20308,Brandi Thomas,Pune,Not Graduate,37716,801,10317,36,70,Male,Semiurban,Married,1,Not Approved,12,2
+LP20309,pooja chavda,Ahemdabad,Graduate,15000,800,20000,35,70,Male,Urban,Unmarried,1,Not Approved,12,1
